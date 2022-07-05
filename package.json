@@ -2,6 +2,7 @@
   "name": "lanars_tz",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://satir8.github.io/lanars_tz/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -11,6 +12,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "classnames": "^2.3.1",
+    "gh-pages": "^4.0.0",
     "node-sass": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -26,7 +28,9 @@
     "eject": "react-scripts eject",
     "lint": "eslint . --ext .js,.jsx,.tsx",
     "lint:fix": "eslint --fix . --ext .js,.jsx,.tsx",
-    "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
+    "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
