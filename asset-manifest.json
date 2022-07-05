@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Satir8/lanars_tz/static/css/main.073c9b0a.css",
-    "main.js": "/Satir8/lanars_tz/static/js/main.2d5cd3d3.js",
-    "static/js/787.967409db.chunk.js": "/Satir8/lanars_tz/static/js/787.967409db.chunk.js",
-    "static/media/logo.svg": "/Satir8/lanars_tz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Satir8/lanars_tz/index.html",
-    "main.073c9b0a.css.map": "/Satir8/lanars_tz/static/css/main.073c9b0a.css.map",
-    "main.2d5cd3d3.js.map": "/Satir8/lanars_tz/static/js/main.2d5cd3d3.js.map",
-    "787.967409db.chunk.js.map": "/Satir8/lanars_tz/static/js/787.967409db.chunk.js.map"
+    "main.css": "/lanars_tz/static/css/main.073c9b0a.css",
+    "main.js": "/lanars_tz/static/js/main.77df33d5.js",
+    "static/js/787.967409db.chunk.js": "/lanars_tz/static/js/787.967409db.chunk.js",
+    "static/media/logo.svg": "/lanars_tz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lanars_tz/index.html",
+    "main.073c9b0a.css.map": "/lanars_tz/static/css/main.073c9b0a.css.map",
+    "main.77df33d5.js.map": "/lanars_tz/static/js/main.77df33d5.js.map",
+    "787.967409db.chunk.js.map": "/lanars_tz/static/js/787.967409db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2d5cd3d3.js"
+    "static/js/main.77df33d5.js"
   ]
 }
